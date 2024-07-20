@@ -20,7 +20,7 @@ function App() {
                 "main"
                 "footer"`,
         }}
-        gridTemplateColumns={'150px 1fr'}
+        // gridTemplateColumns={{ base:'150px 1fr', sm: '1fr', md: '150px 1fr' }}
         gap='1'
         color='blackAlpha.700'
         fontWeight='bold'
